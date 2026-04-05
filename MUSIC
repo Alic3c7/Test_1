@@ -1,9 +1,12 @@
 [
-{ "name": "What Is Love", "url": "https://..." },
-{ "name": "Dancin queen", "url": "https://..." },
-{ "name": "Duvet", "url": "https://..." },
-{ "name": "When the Moons is reaching out stars", "url": "https://..." },
-{ "name": "Ladie", "url": "https://..." },
-{ "name": "モエチャッカファイア", "url": "https://..." },
-{ "name": "Machine love", "url": "https://..." }
+    { name = "What Is Love",                     url = "https://dl.dropboxusercontent.com/scl/fi/y17i0rm2b7wihwxoggaia/Haddaway-What-is-Love-Audio.mp3?rlkey=leqbxp8grzejyet4mgx3326ka&st=4fgvaf54&dl=0" },
+    { name = "Dancin queen",                     url = "https://dl.dropboxusercontent.com/scl/fi/pvfw1owkaf25dbdb74oyp/Duo-CoverDancing-Queen-Elizabeth-Rose-Bloodflame-Nerissa-Ravencroft.mp3?rlkey=5qw09b6h9ollntc4uq1johyf6&st=y2voszuh&dl=0" },
+    { name = "Duvet",                            url = "https://dl.dropboxusercontent.com/scl/fi/iht726oxn3h8viysjkqj1/b-a-Duvet.mp3?rlkey=uxijy2xlgnq3syrch65shlb63&st=a59qryge&dl=0" },
+    { name = "Creepy Nuts MV",                   url = "https://dl.dropboxusercontent.com/scl/fi/c5h6p0vnmf7b575lmc68q/Creepy-Nuts-MV.mp3?rlkey=c801nca3xy7orgq0ch3xmq9ha&st=750ligz6&dl=0" },
+    { name = "When the Moons is reaching out stars", url = "https://dl.dropboxusercontent.com/scl/fi/lypqnnv2jx1coquf8l939/When-The-Moon-s-Reaching-Out-Stars-Reload.mp3?rlkey=0sfnqnabzxa6tq92smm4u03m7&st=qf8ycaty&dl=0"},
+    { name = "Telephone Number",                 url = "https://dl.dropboxusercontent.com/scl/fi/ruu36hyez4ayl60k7w1hx/Junko-Ohashi-Telephone-Number.mp3?rlkey=xfctil1ugqercirzg6wdxppya&st=r5eiswj3&dl=0" },
+    { name = "Tu con el",                        url = "https://dl.dropboxusercontent.com/scl/fi/rgsjc2ifkkg9im578vz2v/Frankie-Ru-z-T-Con-l-Visualizer.mp3?rlkey=3s8y9uy5vatsmsmvgc7r55e38&st=95lvx183&dl=0" },
+    { name = "Ladie",                            url = "https://dl.dropboxusercontent.com/scl/fi/o2v4jobi66vnkll9m7j1j/HQ-Lady-Hear-me-Tonight-Modjo.mp3?rlkey=kknducffdvgc0s9sjfyoaadd6&st=08ioc0sg&dl=0" },
+    { name = "moechakkafire",                    url = "https://dl.dropboxusercontent.com/scl/fi/e8rbchrbysf929zaa5zz4/_-CV-cover.mp3?rlkey=u34sezi8zgeg28kxulzev7tlu&st=46iqp7e6&dl=0" },
+    { name = "Machine love",                     url = "https://dl.dropboxusercontent.com/scl/fi/wy2h6wea6nldlayhhsxxw/Machine-Love.mp3?rlkey=hm13gii1flmplwmrr1ml7j53a&st=5cvfrq75&dl=0" },
 ]
